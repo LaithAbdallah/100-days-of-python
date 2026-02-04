@@ -14,7 +14,7 @@
 | 01 | **Band Name Generator** | Variables, Inputs | [View](./day01/band-name-generator) |
 | 02 | **Tip Calculator** | Data Types, Math | [View](./day02/tip-calculator) |
 | 03 | **Treasure Island** | Logical Operators, If/Else | [View](./day03/treasure-island) |
-| 04 | **Rock Paper Scissors** | Lists, Randomization | [View](./day04/) |
+| 04 | **Rock Paper Scissors** | Lists, Randomization | [View](./day04/rock-paper-scissors) |
 | 05 | **Password Generator** | For Loops, Range | Pending |
 
 ### 🔵 Intermediate (Days 16 - 31)
