@@ -9,13 +9,13 @@
 ### 🟢 Beginner (Days 1 - 15)
 *Mastering the fundamentals: Control flow, loops, functions, and dictionaries.*
 
-| Day | Project | Topics Covered | Link |
-| :--- | :--- | :--- | :--- |
-| 01 | **Band Name Generator** | Variables, Inputs | [View](./day01/band-name-generator) |
-| 02 | **Tip Calculator** | Data Types, Math | [View](./day02/tip-calculator) |
-| 03 | **Treasure Island** | Logical Operators, If/Else | [View](./day03/treasure-island) |
-| 04 | **Rock Paper Scissors** | Lists, Randomization | [View](./day04/rock-paper-scissors) |
-| 05 | **Password Generator** | For Loops, Range | Pending |
+| Day | Project | Topics Covered | Link            |
+| :--- | :--- | :--- |:----------------|
+| 01 | **Band Name Generator** | Variables, Inputs | [View](./day01) |
+| 02 | **Tip Calculator** | Data Types, Math | [View](./day02) |
+| 03 | **Treasure Island** | Logical Operators, If/Else | [View](./day03) |
+| 04 | **Rock Paper Scissors** | Lists, Randomization | [View](./day04) |
+| 05 | **Password Generator** | For Loops, Range | Pending         |
 
 ### 🔵 Intermediate (Days 16 - 31)
 *Object-Oriented Programming (OOP), Turtle Graphics, and Game Development.*
