@@ -3,7 +3,7 @@
 Welcome to my progress tracker for the **100 Days of Code: The Complete Python Pro Bootcamp**. This repository serves as a digital diary of my coding journey, showcasing daily projects, logic challenges, and Python mastery.
 
 ## 🚀 Progress Overview
-- [x] **Week 1:** Python Fundamentals (Days 1-7)
+- [ ] **Week 1:** Python Fundamentals (Days 1-7)
 - [ ] **Week 2:** Intermediate Concepts (Days 8-14)
 - [ ] **Final Goal:** 100/100 Projects Completed
 
@@ -28,8 +28,4 @@ Welcome to my progress tracker for the **100 Days of Code: The Complete Python P
 
 ---
 
-## 📈 Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaithAbdallah&show_icons=true&theme=tokyonight)
-
----
-*Follow my journey as I code my way to 100 days!*
+### Follow my journey as I code my way to 100 days!
