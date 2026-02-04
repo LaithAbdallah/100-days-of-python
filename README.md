@@ -1,31 +1,42 @@
-# 🐍 Python 100 Days of Code
-
-Welcome to my progress tracker for the **100 Days of Code: The Complete Python Pro Bootcamp**. This repository serves as a digital diary of my coding journey, showcasing daily projects, logic challenges, and Python mastery.
-
-## 🚀 Progress Overview
-- [ ] **Week 1:** Python Fundamentals (Days 1-7)
-- [ ] **Week 2:** Intermediate Concepts (Days 8-14)
-- [ ] **Final Goal:** 100/100 Projects Completed
+# 🐍 100 Days of Code: The Complete Python Pro Bootcamp
+**Student:** Laith Abdallah  
+**Goal:** Master Python by building 100 projects in 100 days.
 
 ---
 
-## 📂 Project Gallery
+## 🏆 Course Milestones
 
-| Day | Project Name | Key Concepts | Link |
+### 🟢 Beginner (Days 1 - 15)
+*Mastering the fundamentals: Control flow, loops, functions, and dictionaries.*
+
+| Day | Project | Topics Covered | Link |
 | :--- | :--- | :--- | :--- |
-| 01 | **Band Name Generator** | Variables, Inputs, String Concatenation | [View](./day01/band-name-generator) |
-| 02 | **Tip Calculator** | Data Types, Math, F-Strings | [View](./day02/tip-calculator) |
-| 03 | **Treasure Island** | Conditional Logic, Flow Control | [View](./day03/treasure-island) |
-| 04 | **Rock Paper Scissors** | Randomization, Python Lists | [View](./day04/) |
+| 01 | **Band Name Generator** | Variables, Inputs | [View](./day01/band-name-generator) |
+| 02 | **Tip Calculator** | Data Types, Math | [View](./day02/tip-calculator) |
+| 03 | **Treasure Island** | Logical Operators, If/Else | [View](./day03/treasure-island) |
+| 04 | **Rock Paper Scissors** | Lists, Randomization | [View](./day04/) |
+| 05 | **Password Generator** | For Loops, Range | Pending |
+
+### 🔵 Intermediate (Days 16 - 31)
+*Object-Oriented Programming (OOP), Turtle Graphics, and Game Development.*
+- [ ] Day 16: Coffee Machine (OOP)
+- [ ] Day 20-21: Snake Game
+- [ ] Day 23: Turtle Crossing Game
+
+### 🟠 Intermediate+ (Days 32 - 58)
+*Working with CSVs, Pandas, APIs, and Web Scraping.*
+- [ ] Day 33: ISS Overhead Notifier (APIs)
+- [ ] Day 45: Web Scraping with Beautiful Soup
+
+### 🔴 Advanced (Days 59 - 100)
+*Web Development (Flask), Data Science, and Professional Portfolio Projects.*
 
 ---
 
-## 🛠️ Skills Being Built
-* **Logic:** Problem-solving and algorithmic thinking.
-* **Automation:** Scripting repetitive tasks.
-* **Data:** Handling and visualizing information.
-* **Games:** Building interactive terminal and GUI applications.
+## 🛠️ Environment & Tools
+* **IDE:** PyCharm / VS Code
+* **Language:** Python 3.12+
+* **Key Libraries:** `random`, `pandas`, `tkinter`, `beautifulsoup4`, `flask`
 
 ---
-
-### Follow my journey as I code my way to 100 days!
+*“The secret to getting ahead is getting started.” — Mark Twain (and Angela Yu)*
