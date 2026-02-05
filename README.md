@@ -1,5 +1,4 @@
 # 🐍 100 Days of Code: The Complete Python Pro Bootcamp
-**Student:** Laith Abdallah  
 **Goal:** Master Python by building 100 projects in 100 days.  
 **Start Date:** February 1, 2026 🚀  
 **Current Status:** Day 05 / 100
