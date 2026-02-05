@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code: The Complete Python Pro Bootcamp
 **Goal:** Master Python by building 100 projects in 100 days.  
 **Start Date:** February 1, 2026 🚀  
-**Current Status:** Day 05 / 100
+**Current Status:** Day 06 / 100
 
 ---
 
@@ -16,7 +16,7 @@
 | 02 | **Tip Calculator** | Data Types, Math | [View](./day02) |
 | 03 | **Treasure Island** | Logical Operators, If/Else | [View](./day03) |
 | 04 | **Rock Paper Scissors** | Lists, Randomization | [View](./day04) |
-| 05 | **Password Generator** | For Loops, Range | Pending         |
+| 05 | **Password Generator** | For Loops, Range | [View](./day05) |
 
 ### 🔵 Intermediate (Days 16 - 31)
 *Object-Oriented Programming (OOP), Turtle Graphics, and Game Development.*
