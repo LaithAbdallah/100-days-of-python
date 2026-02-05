@@ -12,11 +12,11 @@
 
 | Day | Project | Topics Covered | Link            |
 | :--- | :--- | :--- |:----------------|
-| 01 | **Band Name Generator** | Variables, Inputs | [View](./day01) |
-| 02 | **Tip Calculator** | Data Types, Math | [View](./day02) |
-| 03 | **Treasure Island** | Logical Operators, If/Else | [View](./day03) |
-| 04 | **Rock Paper Scissors** | Lists, Randomization | [View](./day04) |
-| 05 | **Password Generator** | For Loops, Range | [View](./day05) |
+| 01 | **Band Name Generator** | Variables, Inputs | [View](Beginner/day01) |
+| 02 | **Tip Calculator** | Data Types, Math | [View](Beginner/day02) |
+| 03 | **Treasure Island** | Logical Operators, If/Else | [View](Beginner/day03) |
+| 04 | **Rock Paper Scissors** | Lists, Randomization | [View](Beginner/day04) |
+| 05 | **Password Generator** | For Loops, Range | [View](Beginner/day05) |
 
 ### 🔵 Intermediate (Days 16 - 31)
 *Object-Oriented Programming (OOP), Turtle Graphics, and Game Development.*
