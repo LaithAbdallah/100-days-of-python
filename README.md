@@ -10,14 +10,14 @@
 ### 🟢 Beginner (Days 1 - 15)
 *Mastering the fundamentals: Control flow, loops, functions, and dictionaries.*
 
-| Day | Project | Topics Covered | Link            |
-| :--- | :--- | :--- |:----------------|
-| 01 | **Band Name Generator** | Variables, Inputs | [View](Beginner/day01) |
-| 02 | **Tip Calculator** | Data Types, Math | [View](Beginner/day02) |
-| 03 | **Treasure Island** | Logical Operators, If/Else | [View](Beginner/day03) |
-| 04 | **Rock Paper Scissors** | Lists, Randomization | [View](Beginner/day04) |
-| 05 | **Password Generator** | For Loops, Range | [View](Beginner/day05) |
-
+| Day | Project                 | Topics Covered | Link                   |
+|:----|:------------------------| :--- |:-----------------------|
+| 01  | **Band Name Generator** | Variables, Inputs | [View](Beginner/day01) |
+| 02  | **Tip Calculator**      | Data Types, Math | [View](Beginner/day02) |
+| 03  | **Treasure Island**     | Logical Operators, If/Else | [View](Beginner/day03) |
+| 04  | **Rock Paper Scissors** | Lists, Randomization | [View](Beginner/day04) |
+| 05  | **Password Generator**  | For Loops, Range | [View](Beginner/day05) |
+| 06  | **Escaping the Maze**   | Functions, While Loops, Logic Flow | [View](Beginner/day06) |
 ### 🔵 Intermediate (Days 16 - 31)
 *Object-Oriented Programming (OOP), Turtle Graphics, and Game Development.*
 - [ ] Day 16: Coffee Machine (OOP)
