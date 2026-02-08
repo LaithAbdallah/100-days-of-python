@@ -16,7 +16,7 @@ To ensure Reeborg doesn't get stuck in a loop or hit a wall, I implemented the f
 3. **Nothing else?** Turn left to find a new path.
 
 ## 📸 Final Result
-![Maze Solution](./Reeborg's World maze.png")
+![Maze Solution](./maze_result.png)
 
 ## 📝 Note on Code Execution
 > **Important:** The logic implemented in `maze.py` relies on built-in functions specific to the **Reeborg's World** environment (such as `move()`, `turn_left()`, and `right_is_clear()`). As such, the code is intended for documentation of algorithmic logic and will not execute on a local machine without the corresponding simulation library.
