@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code: The Complete Python Pro Bootcamp
 **Goal:** Master Python by building 100 projects in 100 days.  
 **Start Date:** February 1, 2026 🚀  
-**Current Status:** Day 06 / 100
+**Current Status:** Day 08 / 100
 
 ---
 
@@ -18,6 +18,7 @@
 | 04  | **Rock Paper Scissors** | Lists, Randomization | [View](Beginner/day04) |
 | 05  | **Password Generator**  | For Loops, Range | [View](Beginner/day05) |
 | 06  | **Escaping the Maze**   | Functions, While Loops, Logic Flow | [View](Beginner/day06) |
+| 07  | **Hangman Game**        | Lists, Strings, While Loops, Logic Flow, ASCII Art | [View](Beginner/day07) |
 ### 🔵 Intermediate (Days 16 - 31)
 *Object-Oriented Programming (OOP), Turtle Graphics, and Game Development.*
 - [ ] Day 16: Coffee Machine (OOP)
