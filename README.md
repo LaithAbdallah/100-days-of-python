@@ -19,6 +19,8 @@
 | 05  | **Password Generator**  | For Loops, Range | [View](Beginner/day05) |
 | 06  | **Escaping the Maze**   | Functions, While Loops, Logic Flow | [View](Beginner/day06) |
 | 07  | **Hangman Game**        | Lists, Strings, While Loops, Logic Flow, ASCII Art | [View](Beginner/day07) |
+| 08  | **Caesar Cipher**       | Functions with Inputs, Arguments, Modulo Math | [View](Beginner/day08) |
+
 ### 🔵 Intermediate (Days 16 - 31)
 *Object-Oriented Programming (OOP), Turtle Graphics, and Game Development.*
 - [ ] Day 16: Coffee Machine (OOP)
