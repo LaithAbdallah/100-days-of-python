@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code: The Complete Python Pro Bootcamp
 **Goal:** Master Python by building 100 projects in 100 days.  
 **Start Date:** February 1, 2026 🚀  
-**Current Status:** Day 11 / 100
+**Current Status:** Day 12 / 100
 
 ---
 
@@ -22,7 +22,7 @@
 | 08  | **Caesar Cipher**       | Functions with Inputs, Arguments, Modulo Math | [View](Beginner/day08) |
 | 09  | **Secret Auction**      | Dictionaries, Nesting, Dictionary Loops | [View](Beginner/day09) |
 | 10  | **Calculator**          | Functions with Outputs | [View](Beginner/day10) |
-
+| 11  | **Blackjack**           | Capstone Project (All concepts learned so far) | [View](Beginner/day11) |
 ### 🔵 Intermediate (Days 16 - 31)
 *Object-Oriented Programming (OOP), Turtle Graphics, and Game Development.*
 - [ ] Day 16: Coffee Machine (OOP)
